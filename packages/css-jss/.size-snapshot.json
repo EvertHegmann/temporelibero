@@ -1,0 +1,31 @@
+{
+  "dist/css-jss.js": {
+    "bundled": 58440,
+    "minified": 20647,
+    "gzipped": 6976
+  },
+  "dist/css-jss.min.js": {
+    "bundled": 57678,
+    "minified": 20185,
+    "gzipped": 6756
+  },
+  "dist/css-jss.cjs.js": {
+    "bundled": 2919,
+    "minified": 1125,
+    "gzipped": 643
+  },
+  "dist/css-jss.esm.js": {
+    "bundled": 2693,
+    "minified": 961,
+    "gzipped": 573,
+    "treeshaked": {
+      "rollup": {
+        "code": 70,
+        "import_statements": 63
+      },
+      "webpack": {
+        "code": 1833
+      }
+    }
+  }
+}
